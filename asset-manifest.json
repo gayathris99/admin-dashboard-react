@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/admin-dashboard-react/static/css/main.d009d84a.css",
-    "main.js": "/admin-dashboard-react/static/js/main.77922167.js",
+    "main.css": "/admin-dashboard-react/static/css/main.49213e8d.css",
+    "main.js": "/admin-dashboard-react/static/js/main.d15ca1c2.js",
     "static/media/product4.jpg": "/admin-dashboard-react/static/media/product4.767417bea17688d6d8ce.jpg",
     "static/media/product2.jpg": "/admin-dashboard-react/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/product1.jpg": "/admin-dashboard-react/static/media/product1.b8efc7a24c281ed8911b.jpg",
@@ -15,11 +15,11 @@
     "static/media/avatar4.jpg": "/admin-dashboard-react/static/media/avatar4.f56b774f77caaf2f6921.jpg",
     "static/media/product5.jpg": "/admin-dashboard-react/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
     "index.html": "/admin-dashboard-react/index.html",
-    "main.d009d84a.css.map": "/admin-dashboard-react/static/css/main.d009d84a.css.map",
-    "main.77922167.js.map": "/admin-dashboard-react/static/js/main.77922167.js.map"
+    "main.49213e8d.css.map": "/admin-dashboard-react/static/css/main.49213e8d.css.map",
+    "main.d15ca1c2.js.map": "/admin-dashboard-react/static/js/main.d15ca1c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d009d84a.css",
-    "static/js/main.77922167.js"
+    "static/css/main.49213e8d.css",
+    "static/js/main.d15ca1c2.js"
   ]
 }
